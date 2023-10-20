@@ -1,0 +1,36 @@
+QObject:hover        {background: #374463;}
+QObject:pressed      {background: #374463;}
+
+QMdiSubWindow        {background: #374063;}
+QWidget:hover        {background: #374063;}
+
+QMainWindow          {background: #374063; color: #E4E8E8;}
+QMainWindow:hover    {background: #374063;}
+
+QMdiArea:hover       {background: #374063; color: #E4E8E8;}
+
+QToolBar             {background: #374063;}
+
+QScrollBar:vertical             {background: #374063;}
+QScrollBar::handle:vertical     {background: qlineargradient(x1: 0, y1: 0, x2: 1, y2: 0, stop: 0 #45517C, stop: 1 #45557C);}
+QScrollBar::add-line:vertical   {background: none;}
+QScrollBar::sub-line:vertical   {background: none;}
+
+QMenuBar             {background: #374063; color: #E4E8E8;}
+QMenuBar:hover       {background: #374063;}
+
+QStatusBar           {background: #374063; color: #A6B4B5;}
+QStatusBar:hover     {background: #374063;}
+
+MyTextEdit           {background: #374463; color: #E4E8E8;}
+MyTextEdit:hover     {background: #374463;}
+MyTextEdit:read-only {color: #A6B4B5;}
+
+QLineEdit            {background: #374463; color: #E4E8E8;}
+QLineEdit:hover      {background: #374463;}
+QLineEdit:read-only  {color: #A6B4B5;}
+
+QMenu                {background: #374063; color: #A6B4B5;}
+QMenu                {background: #374063; border: 1px solid black;}
+QMenu::item          {background: #374063;}
+QMenu::item:selected {background: #45717C;}

@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/addToFavour.png</file>
+        <file>icons/advancedSearch.png</file>
+        <file>icons/back.png</file>
+        <file>icons/basket.png</file>
+        <file>icons/desktop.png</file>
+        <file>icons/detailedList.png</file>
+        <file>icons/documents.png</file>
+        <file>icons/download.png</file>
+        <file>icons/folder.png</file>
+        <file>icons/forward.png</file>
+        <file>icons/fullScreenOff.png</file>
+        <file>icons/hidden.png</file>
+        <file>icons/home.png</file>
+        <file>icons/icons1.png</file>
+        <file>icons/icons2.png</file>
+        <file>icons/images.png</file>
+        <file>icons/language.png</file>
+        <file>icons/left.png</file>
+        <file>icons/list.png</file>
+        <file>icons/music.png</file>
+        <file>icons/newWindow.png</file>
+        <file>icons/recent.png</file>
+        <file>icons/right.png</file>
+        <file>icons/search.png</file>
+        <file>icons/video.png</file>
+        <file>icons/about.png</file>
+        <file>icons/classic.png</file>
+        <file>icons/exit.png</file>
+        <file>icons/fullScreen.png</file>
+        <file>icons/night.png</file>
+        <file>icons/settings.png</file>
+        <file>about.txt</file>
+        <file>icons/device.png</file>
+    </qresource>
+</RCC>
