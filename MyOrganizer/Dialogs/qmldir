@@ -1,0 +1,3 @@
+module Dialogs
+AddTaskDialog 1.0 AddTaskDialog.qml
+CalendarDialog 1.0 CalendarDialog.qml

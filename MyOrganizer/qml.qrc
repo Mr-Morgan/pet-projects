@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Buttons/qmldir</file>
+        <file>Buttons/AddButton.qml</file>
+        <file>Buttons/BackButton.qml</file>
+        <file>Buttons/DayNightModeButton.qml</file>
+        <file>Buttons/DelButton.qml</file>
+        <file>Buttons/MyCheckBox.qml</file>
+        <file>Buttons/SettingsButton.qml</file>
+        <file>Dialogs/AddTaskDialog.qml</file>
+        <file>Dialogs/CalendarDialog.qml</file>
+        <file>Dialogs/qmldir</file>
+        <file>Model/qmldir</file>
+        <file>Model/Table.qml</file>
+        <file>Model/TableLine.qml</file>
+    </qresource>
+</RCC>
