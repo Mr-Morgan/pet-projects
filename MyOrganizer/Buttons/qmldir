@@ -1,0 +1,7 @@
+module Buttons
+AddButton 1.0 AddButton.qml
+DelButton 1.0 DelButton.qml
+BackButton 1.0 BackButton.qml
+MyCheckBox 1.0 MyCheckBox.qml
+SettingsButton 1.0 SettingsButton.qml
+DayNightModeButton 1.0 DayNightModeButton.qml

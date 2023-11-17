@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/add.png</file>
+        <file>icons/add_pressed.png</file>
+        <file>icons/checkbox.png</file>
+        <file>icons/checkbox_checked.png</file>
+        <file>icons/checkbox_checked_pressed.png</file>
+        <file>icons/checkbox_pressed.png</file>
+        <file>icons/classic.png</file>
+        <file>icons/classic_pressed.png</file>
+        <file>icons/delete.png</file>
+        <file>icons/delete_pressed.png</file>
+        <file>icons/left.png</file>
+        <file>icons/left_pressed.png</file>
+        <file>icons/night.png</file>
+        <file>icons/night_pressed.png</file>
+        <file>icons/settings.png</file>
+        <file>icons/settings_pressed.png</file>
+        <file>qtquickcontrols2.conf</file>
+    </qresource>
+</RCC>
